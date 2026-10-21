@@ -1,0 +1,7 @@
+timestamp,experiment_id,participant_id,trial_id,platform,input_mode,scenario_name,room_volume_m3,surface_area_m2,sabine_rt60_s,eyring_rt60_s,schroeder_rt60_s,cedia_compliant,cedia_target_s,viewing_distance_m,horizontal_fov_deg,vertical_gaze_deg,sightline_clearance_percent,spl_decibels,subwoofer_pos_x,subwoofer_pos_z,notes
+2026-10-20T09:14:41Z,EXP-IVRAR-01,P01,1,WindowsEditor,DesktopWASD,UnitTest_Optimized,105.00,142.00,0.452,0.441,0.450,FAIL,0.305,3.90,38.5,8.5,100.0,78.5,0.00,1.20,"Automated Test Run"
+2026-10-20T09:15:42Z,EXP-IVRAR-01,P01,1,WindowsEditor,DesktopWASD,UnitTest_Optimized,105.00,142.00,0.452,0.441,0.450,FAIL,0.305,3.90,38.5,8.5,100.0,78.5,0.00,1.20,"Automated Test Run"
+2026-10-20T10:08:29Z,EXP-IVRAR-01,P01,1,WindowsEditor,DesktopWASD,UnitTest_Optimized,105.00,142.00,0.452,0.441,0.450,PASS,0.305,3.90,38.5,8.5,100.0,78.5,0.00,1.20,"Automated Test Run"
+2026-10-20T10:09:03Z,EXP-IVRAR-01,P01,1,WindowsEditor,DesktopWASD,UnitTest_Optimized,105.00,142.00,0.452,0.441,0.450,PASS,0.305,3.90,38.5,8.5,100.0,78.5,0.00,1.20,"Automated Test Run"
+2026-10-20T10:23:04Z,EXP-IVRAR-01,P01,1,WindowsEditor,DesktopWASD,UnitTest_Optimized,105.00,142.00,0.452,0.441,0.450,PASS,0.305,3.90,38.5,8.5,100.0,78.5,0.00,1.20,"Automated Test Run"
+2026-10-20T10:29:21Z,EXP-IVRAR-01,P01,1,WindowsEditor,DesktopWASD,UnitTest_Optimized,105.00,142.00,0.452,0.441,0.450,PASS,0.305,3.90,38.5,8.5,100.0,78.5,0.00,1.20,"Automated Test Run"
