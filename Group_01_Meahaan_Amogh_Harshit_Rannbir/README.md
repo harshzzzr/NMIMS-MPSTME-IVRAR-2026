@@ -71,9 +71,9 @@ For the exhaustive literature analysis, mathematical derivations, and viva defen
 
 ## 4. Project Demonstration & Academic Showcase (LinkedIn)
 
-[![Watch Video Demonstration on LinkedIn](docs/figures/video_poster.png)](https://www.linkedin.com/)
+[![Watch Video Demonstration on LinkedIn](docs/figures/video_poster.png)](https://www.linkedin.com/posts/meahaan-sharma-ivrar-group01_immersive-acoustics-spatial-design-cedia-rp22)
 
-* **Video Demonstration:** [Watch 60-Second Walkthrough on LinkedIn](https://www.linkedin.com/) *(Click thumbnail above to open LinkedIn post)*
+* **Video Demonstration:** [Watch 60-Second Walkthrough on LinkedIn](https://www.linkedin.com/posts/meahaan-sharma-ivrar-group01_immersive-acoustics-spatial-design-cedia-rp22) *(Click thumbnail above to open LinkedIn post)*
 * **Student Presenters:** **Meahaan Sharma** (I066), **Amogh Gupta** (C034), **Harshit Rai** (N083), **Rannbir Sachdeva** (N087)
 * **Academic Institutional Tags:** SVKM's NMIMS MPSTME | Academic Directorate | Immersive VR/AR Technologies
 * **Submission Protocol:** Record a 60–90 second demonstration of your VR/AR interactive environment and telemetry. Publish on LinkedIn tagging MPSTME, Dean, and Course Faculty. Insert your live post URL in `docs/TEAM_ROSTER.json` under `"linkedin_url"`, and submit a pull request to update this project dossier and the cohort dashboard.
