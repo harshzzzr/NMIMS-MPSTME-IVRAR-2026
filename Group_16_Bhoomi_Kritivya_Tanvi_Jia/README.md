@@ -94,3 +94,12 @@ Menu **Rescue Sim ▸ Tests** (or Window ▸ General ▸ Test Runner); results a
 
 ## Building for Quest
 See `Docs/TROUBLESHOOTING.md` and `Docs/AUDIT.md` (Android section). Menu: **Rescue Sim ▸ Configure XR and Android** (idempotent), switch platform to Android in Build Profiles, then **Rescue Sim ▸ Build ▸ Android APK (Quest)**. Output goes to `Builds/Android/DisasterResponseVR_HumansHands.apk` (the earlier `DisasterResponseVR.apk` is the previous build and is not overwritten) with a report in `Builds/android-build-report.txt`.
+
+
+---
+
+## Project Demonstration & Academic Showcase (LinkedIn)
+
+* **LinkedIn Video Demonstration:** [Watch Disaster Rescue Simulation Showcase on LinkedIn](https://lnkd.in/p/dm4vBKsW)
+* **Student Presenters:** **Bhoomi Bhandari** (I004), **Kritivya Mishra** (I037), **Tanvi Paithankar** (I044), **Jia Jadhav** (I069)
+* **Academic Institutional Tags:** SVKM's NMIMS MPSTME | Academic Directorate | Immersive VR/AR Technologies
