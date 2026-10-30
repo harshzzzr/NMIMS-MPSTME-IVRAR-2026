@@ -43,6 +43,11 @@ A Unity 6 (6000.5.4f1) VR boardroom for Meta Quest (XR Interaction Toolkit, Netc
 | 6 | Gyreyiri, Shukla, "Head Movement Biometrics for Continuous Authentication in Virtual Reality" | ACM VRST 2025 | 10.1145/3756884.3768408 |
 | Std | ISO/IEC 19795-1:2021, Biometric performance testing and reporting, Part 1: Principles and framework | ISO/IEC | iso.org/standard/73515.html |
 
+## Project Demonstration & Academic Showcase (LinkedIn)
+* **LinkedIn Video Demonstration:** [Watch BoardroomXR Demonstration on LinkedIn](https://lnkd.in/p/d_G32T8Q)
+* **Student Presenters:** **Kartik Agrawal** (I001), **Soha Chand** (I007), **Atharv Dixit** (I013), **Ojaswi Gondalia** (I019)
+* **Academic Institutional Tags:** SVKM's NMIMS MPSTME | Academic Directorate | Immersive VR/AR Technologies
+
 ## Team
 | Roll No | Name | Role |
 |---|---|---|
